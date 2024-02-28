@@ -1,10 +1,9 @@
-<img src="/home/leonardo/Documentos/Projetos/Artigos/CI-CD/image/entendendo_cicd.png" alt="capa entendendo CI/CD">
+![capa ci/cd](image/entendendo_cicd.png)
 
-# Continuous Integration/Continuous Delivery
 
 ### Continuous Integration/Continuous Delivery. O que é o CI/CD? <br>
 
-<img src="/home/leonardo/Documentos/Projetos/Artigos/CI-CD/image/img_ciclo.png" alt="capa entendendo CI/CD">
+![ciclo ci/cd](image/img_ciclo.png)
 
 É um conjunto de práticas que envolvem a automação de processos de desenvolvimento, testes e entrega de software. O objetivo é permitir entregas de software frequentes, confiáveis e de alta qualidade.<br>
 
@@ -113,7 +112,7 @@ Automatizar o Máximo Possível: Automatize todas as etapas possíveis do pipeli
 
 ### **Netflix:**
 
-<img src="/home/leonardo/Documentos/Projetos/Artigos/CI-CD/image/netflix.png" width="150"/>
+<img src="image/netflix.png" width="150"/>
 
 - A Netflix é um dos principais exemplos de sucesso no uso de CI/CD.
 - Eles implementam atualizações frequentes e consistentes em seu serviço de streaming.
@@ -121,14 +120,14 @@ Automatizar o Máximo Possível: Automatize todas as etapas possíveis do pipeli
 
 ### **Spotify:**
 
-<img src="/home/leonardo/Documentos/Projetos/Artigos/CI-CD/image/spotify.png" width="150"/>
+<img src="image/spotify.png" width="150"/>
 
 - A Spotify utiliza CI/CD para lançar novas funcionalidades e atualizações de aplicativos de maneira constante.
 - Eles são conhecidos por equipes independentes capazes de implantar alterações no aplicativo várias vezes por dia, permitindo uma inovação rápida.
 
 ### **Amazon:**
 
-<img src="/home/leonardo/Documentos/Projetos/Artigos/CI-CD/image/amazon.png" width="150"/>
+<img src="image/amazon.png" width="150"/>
 
 - A Amazon é conhecida por sua abordagem agressiva de CI/CD.
 - Eles implantam atualizações no site de compras da Amazon muitas vezes por minuto.
@@ -136,14 +135,14 @@ Automatizar o Máximo Possível: Automatize todas as etapas possíveis do pipeli
 
 ### **Etsy:**
 
-<img src="/home/leonardo/Documentos/Projetos/Artigos/CI-CD/image/etsy.png" width="150"/>
+<img src="image/etsy.png" width="150"/>
 
 - O Etsy, uma plataforma de comércio eletrônico, implementa CI/CD para atualizar sua plataforma de maneira consistente.
 - Eles conseguem manter a alta disponibilidade do site enquanto entregam continuamente melhorias.
 
 ### **Google:**
 
-<img src="/home/leonardo/Documentos/Projetos/Artigos/CI-CD/image/google.png" width="150"/>
+<img src="image/google.png" width="150"/>
 
 - O Google usa CI/CD em seus serviços baseados em nuvem, como o Google Cloud.
 - Isso permite atualizações frequentes e melhorias de desempenho em serviços de nuvem críticos para empresas.
